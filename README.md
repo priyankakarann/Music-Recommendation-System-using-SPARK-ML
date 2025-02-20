@@ -44,13 +44,6 @@ The music streaming industry faces challenges in providing personalized recommen
 6. **Deployment**:
    - Deploy the model using AWS SageMaker to enable scalable, real-time recommendations.
 
-## Setup Instructions
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/song-recommendation-system.git
-cd song-recommendation-system
 
 ### Top 10 Most-Played Artists
 ![image](https://github.com/user-attachments/assets/da87a32b-e31d-463f-b42d-595a2bd6beac)
